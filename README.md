@@ -6,7 +6,7 @@ An AI project that implements **intelligent game-playing agents** using **Constr
 
 ## Overview
 
-This project explores how AI agents can be designed to make intelligent decisions in game environments using CSP-based planning. Constraint Satisfaction is used to model game rules and goals, allowing agents to plan optimal moves and strategies.
+This project explores how AI agents can be designed to make intelligent decisions in game environments using CSP-based planning. Constraint Satisfaction is used to model game rules and goals allowing agents to plan optimal moves and strategies.
 
 ---
 
